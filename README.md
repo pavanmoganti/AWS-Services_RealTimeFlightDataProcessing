@@ -22,6 +22,17 @@ This architecture is designed/developed to get the updated data within a given i
 
 7)- table produced by glue job can be used in Athena and quickshight for analytics.
 
+# List of AWS services used:
+1) Glue
+2) Athena
+3) Kinesis Firehose
+4) Kinesis Data Streams
+5) Lambda
+6) Cloud Watch
+7) S3
+8) Quick Sight
+
+
 # Deployment_Lambda.zip: 
 this zip file contains all the lambda python scripts and required python libraries to execute the lambda function in aws console. This is uploaded in s3 under bucket kinesis-producer-lambdas below are the list of python script used in lambda.
 
