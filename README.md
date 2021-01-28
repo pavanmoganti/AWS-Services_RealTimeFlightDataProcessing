@@ -83,6 +83,8 @@ some analytics run top of the data we processed
 
 <img width="915" alt="Cancelled Flights" src="https://user-images.githubusercontent.com/26443357/106088538-27be4600-60f4-11eb-9bd2-20475088bb94.png">
 
+<img width="914" alt="On ground flights" src="https://user-images.githubusercontent.com/26443357/106088663-5fc58900-60f4-11eb-9479-8499a350a92f.png">
+
 
 
 
