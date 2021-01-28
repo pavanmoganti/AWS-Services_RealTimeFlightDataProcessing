@@ -22,6 +22,11 @@ This architecture is designed/developed to get the updated data within a given i
 
 7)- table produced by glue job can be used in Athena and quickshight for analytics.
 
+# Architecture Diagram:
+
+
+![AWS Cloud Data Strivers Architecture](https://user-images.githubusercontent.com/26443357/106088112-52f46580-60f3-11eb-8724-03178c1193a3.jpg)
+
 # List of AWS services used:
 1) Glue
 2) Athena
