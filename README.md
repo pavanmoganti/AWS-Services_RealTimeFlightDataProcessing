@@ -81,7 +81,8 @@ Table created by glue job can be used in Athena by selection the aviation dB dat
 ## Analytics: 
 some analytics run top of the data we processed 
 
-![image](https://user-images.githubusercontent.com/26443357/104781185-06527700-5750-11eb-86f1-2ae66a95c36f.png)
+<img width="915" alt="Cancelled Flights" src="https://user-images.githubusercontent.com/26443357/106088538-27be4600-60f4-11eb-9bd2-20475088bb94.png">
+
 
 
 
